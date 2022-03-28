@@ -44,7 +44,7 @@
             </div> --}}
             <form class="bg-white" style="padding: 20px; border-radius: 20px ">
                 <div class="mb-3">
-                    <span style="font-size: 25px">Jona's form</span>
+                    <span style="font-size: 25px">Formulario de Jona</span>
                 </div>
                 <div class="mb-3">
                   <label for="exampleInputEmail1" class="form-label">Email address</label>
